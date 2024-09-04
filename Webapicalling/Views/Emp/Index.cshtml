@@ -1,0 +1,28 @@
+﻿@model List<Emp>
+
+<a class="btn btn-primary" asp-action="AddEmp" asp-controller="Emp">Add Emp</a>
+
+<table class="table table-hover">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Department</th>
+            <th scope="col">Salary</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var d in Model)
+        {
+            <tr>
+                <th scope="row">@d.id</th>
+                <td>@d.name</td>
+                <td>@d.dept</td>
+                <td>@d.salary</td>
+                <td><a class="btn btn-sm danger" asp-action="DeleteEmp" asp-controller="Emp" asp-route-id="@d.id">Delete</a></td>
+                <td><a  asp-action="UpdateEmp" asp-controller="Emp" asp-route-id="@d.id" ><input class="btn btn-sm btn-success" value="Edit"/></a></td>
+            </tr>
+        }
+    </tbody>
+</table>

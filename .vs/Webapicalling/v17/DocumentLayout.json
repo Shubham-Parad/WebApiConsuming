@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\Webapicalling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79EFCBE8-D54B-4F1A-9755-56D3E7F4B0B1}|Webapicalling\\Webapicalling.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\webapicalling\\webapicalling\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79EFCBE8-D54B-4F1A-9755-56D3E7F4B0B1}|Webapicalling\\Webapicalling.csproj|solutionrelative:webapicalling\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79EFCBE8-D54B-4F1A-9755-56D3E7F4B0B1}|Webapicalling\\Webapicalling.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\webapicalling\\webapicalling\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79EFCBE8-D54B-4F1A-9755-56D3E7F4B0B1}|Webapicalling\\Webapicalling.csproj|solutionrelative:webapicalling\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79EFCBE8-D54B-4F1A-9755-56D3E7F4B0B1}|Webapicalling\\Webapicalling.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\webapicalling\\webapicalling\\views\\emp\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79EFCBE8-D54B-4F1A-9755-56D3E7F4B0B1}|Webapicalling\\Webapicalling.csproj|solutionrelative:webapicalling\\views\\emp\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79EFCBE8-D54B-4F1A-9755-56D3E7F4B0B1}|Webapicalling\\Webapicalling.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\webapicalling\\webapicalling\\views\\emp\\addemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79EFCBE8-D54B-4F1A-9755-56D3E7F4B0B1}|Webapicalling\\Webapicalling.csproj|solutionrelative:webapicalling\\views\\emp\\addemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79EFCBE8-D54B-4F1A-9755-56D3E7F4B0B1}|Webapicalling\\Webapicalling.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\webapicalling\\webapicalling\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79EFCBE8-D54B-4F1A-9755-56D3E7F4B0B1}|Webapicalling\\Webapicalling.csproj|solutionrelative:webapicalling\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79EFCBE8-D54B-4F1A-9755-56D3E7F4B0B1}|Webapicalling\\Webapicalling.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\webapicalling\\webapicalling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79EFCBE8-D54B-4F1A-9755-56D3E7F4B0B1}|Webapicalling\\Webapicalling.csproj|solutionrelative:webapicalling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\Webapicalling\\Webapicalling\\Views\\Emp\\Update.cshtml",
+              "RelativeDocumentMoniker": "Webapicalling\\Views\\Emp\\Update.cshtml",
+              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\Webapicalling\\Webapicalling\\Views\\Emp\\Update.cshtml",
+              "RelativeToolTip": "Webapicalling\\Views\\Emp\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T11:30:55.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddEmp.cshtml",
+              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\Webapicalling\\Webapicalling\\Views\\Emp\\AddEmp.cshtml",
+              "RelativeDocumentMoniker": "Webapicalling\\Views\\Emp\\AddEmp.cshtml",
+              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\Webapicalling\\Webapicalling\\Views\\Emp\\AddEmp.cshtml",
+              "RelativeToolTip": "Webapicalling\\Views\\Emp\\AddEmp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T11:01:14.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\Webapicalling\\Webapicalling\\Program.cs",
+              "RelativeDocumentMoniker": "Webapicalling\\Program.cs",
+              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\Webapicalling\\Webapicalling\\Program.cs",
+              "RelativeToolTip": "Webapicalling\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:39:05.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\Webapicalling\\Webapicalling\\Views\\Emp\\Index.cshtml",
+              "RelativeDocumentMoniker": "Webapicalling\\Views\\Emp\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\Webapicalling\\Webapicalling\\Views\\Emp\\Index.cshtml",
+              "RelativeToolTip": "Webapicalling\\Views\\Emp\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T10:36:20.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\Webapicalling\\Webapicalling\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "Webapicalling\\Controllers\\EmpController.cs",
+              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\Webapicalling\\Webapicalling\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "Webapicalling\\Controllers\\EmpController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAD4v00AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:13:33.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\Webapicalling\\Webapicalling\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "Webapicalling\\Models\\Emp.cs",
+              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\Webapicalling\\Webapicalling\\Models\\Emp.cs",
+              "RelativeToolTip": "Webapicalling\\Models\\Emp.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:01:18.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 385,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
